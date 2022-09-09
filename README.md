@@ -7,4 +7,4 @@ I have learnt about:
 * C# Program Structure
 * .NET 6 Changes and new program structure
 * Data Types and Variables
-* 
+* Methods: Access Specifiers, Return types, Parameters
