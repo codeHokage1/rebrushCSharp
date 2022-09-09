@@ -8,3 +8,5 @@ I have learnt about:
 * .NET 6 Changes and new program structure
 * Data Types and Variables
 * Methods: Access Specifiers, Return types, Parameters
+* User Input
+* Handling errors
