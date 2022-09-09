@@ -1,0 +1,15 @@
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\bin\Debug\net6.0\TutorialTasks.exe
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\bin\Debug\net6.0\TutorialTasks.deps.json
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\bin\Debug\net6.0\TutorialTasks.runtimeconfig.json
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\bin\Debug\net6.0\TutorialTasks.dll
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\bin\Debug\net6.0\TutorialTasks.pdb
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\TutorialTasks.csproj.AssemblyReference.cache
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\TutorialTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\TutorialTasks.AssemblyInfoInputs.cache
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\TutorialTasks.AssemblyInfo.cs
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\TutorialTasks.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\TutorialTasks.dll
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\refint\TutorialTasks.dll
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\TutorialTasks.pdb
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\TutorialTasks.genruntimeconfig.cache
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\TutorialTasks\TutorialTasks\obj\Debug\net6.0\ref\TutorialTasks.dll
