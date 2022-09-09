@@ -1,0 +1,15 @@
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\bin\Debug\net6.0\firstApp.exe
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\bin\Debug\net6.0\firstApp.deps.json
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\bin\Debug\net6.0\firstApp.runtimeconfig.json
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\bin\Debug\net6.0\firstApp.dll
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\bin\Debug\net6.0\firstApp.pdb
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\firstApp.csproj.AssemblyReference.cache
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\firstApp.AssemblyInfo.cs
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\firstApp.dll
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\refint\firstApp.dll
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\firstApp.pdb
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\firstApp.genruntimeconfig.cache
+C:\Users\Farhan\Documents\Latest Works\C# TutorialsEU\firstApp\firstApp\obj\Debug\net6.0\ref\firstApp.dll
