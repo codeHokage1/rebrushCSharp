@@ -28,7 +28,10 @@
             {
                 Console.WriteLine("Kindly enter only numbers!");
             }
-
+            finally
+            {
+                Console.WriteLine("End of Program");
+            }
         }
   
 
